@@ -1,0 +1,139 @@
+2025-11-26 11:17:58,089 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:17:58,089 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:18:34,982 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:18:34,983 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:18:35,084 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:18:41,648 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:18:41,648 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:18:41,747 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:19:40,984 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:19:40,984 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:19:41,092 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:20:02,105 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:20:02,105 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:20:02,203 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:20:37,941 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:20:37,941 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:20:38,040 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:21:35,371 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:21:35,371 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:21:35,474 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:21:41,743 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:21:41,743 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:21:41,842 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:22:13,305 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:22:13,305 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:22:13,407 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:23:20,942 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:23:20,942 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:23:21,041 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:23:59,988 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:23:59,988 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:24:00,086 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:24:57,874 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:24:57,874 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:24:57,981 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:25:08,980 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:25:08,980 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:25:09,079 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:25:15,078 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:25:15,078 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:25:15,188 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:27:11,344 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:27:11,345 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:27:11,450 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:27:23,596 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:27:23,596 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:27:23,694 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:37:42,214 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 11:37:42,214 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 11:37:42,322 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 11:39:28,965 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 11:39:28,966 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 11:39:29,085 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 11:40:32,406 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 11:40:32,407 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 11:40:41,800 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 11:40:41,800 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 11:41:06,554 -- Module:columntransformer_base.py -- ColTransPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 11:41:06,554 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 11:41:06,659 -- Module:columntransformer_base.py -- ColTransPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:00:11,250 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:00:11,250 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:00:11,359 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:00:33,382 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:00:33,382 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:00:33,490 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:03:19,914 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:03:19,914 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:03:20,029 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:03:28,908 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:03:28,908 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:03:29,015 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:03:32,749 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:03:32,749 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:03:32,854 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:03:41,764 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:03:41,765 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:03:41,878 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:04:01,458 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:04:01,458 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:04:01,565 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:04:01,565 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:04:01,566 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:04:01,935 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 12:04:34,020 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:04:34,020 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:04:34,129 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:04:34,129 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:04:34,129 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:04:34,530 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 12:05:25,424 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:05:25,424 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:05:25,532 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:05:25,532 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:05:25,532 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:05:25,897 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 12:05:33,515 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:05:33,515 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:05:33,622 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:05:33,622 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:05:33,622 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:05:33,731 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 12:06:35,627 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:06:35,627 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:06:35,734 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:06:35,734 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:06:35,734 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:06:36,094 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 8), done
+2025-11-26 12:07:21,675 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:07:21,676 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:08:35,359 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:08:35,359 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:08:35,464 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:08:43,649 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:08:43,649 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:08:43,756 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:08:43,756 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:08:43,756 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:09:17,356 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:09:17,356 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:09:17,462 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:09:19,951 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:09:19,952 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:09:20,059 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:09:20,059 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:09:20,059 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:09:20,435 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 12:13:12,223 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:13:12,224 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:13:12,330 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:13:12,330 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:13:12,330 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:13:12,754 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 12:13:25,422 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 12:13:25,422 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 12:13:25,527 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 12:13:25,527 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 12:13:25,527 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 12:13:25,898 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done

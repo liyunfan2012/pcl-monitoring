@@ -1,0 +1,10 @@
+/.idea
+/.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
+/src/pcl_monitor.egg-info
+/src/pcl_monitor/scoring_engines/__pycache__
+/src/pcl_monitor/scoring_engines/card/__pycache__
+/src/pcl_monitor/scoring_engines/models/__pycache__
+/src/pcl_monitor/utils/__pycache__
+/src/pcl_monitor/__pycache__
+/notebooks/scoring_engines/.ipynb_checkpoints
