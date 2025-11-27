@@ -137,3 +137,239 @@
 2025-11-26 12:13:25,527 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
 2025-11-26 12:13:25,527 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
 2025-11-26 12:13:25,898 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 18:50:06,364 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 18:50:06,365 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 18:50:06,365 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 18:57:15,230 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 18:57:15,231 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 18:57:15,231 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 18:59:16,130 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 18:59:16,131 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 18:59:16,131 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 18:59:31,663 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 18:59:31,663 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 18:59:31,663 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 18:59:31,665 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 18:59:31,666 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 18:59:31,778 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:00:02,746 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:00:02,746 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:00:02,746 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:00:02,749 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:00:02,749 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:00:02,864 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:00:02,864 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:00:02,864 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:00:03,251 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:00:23,144 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:00:23,144 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:00:23,144 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:00:23,146 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:00:23,146 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:00:23,257 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:00:23,257 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:00:23,257 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:00:23,663 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:05:10,014 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:05:10,015 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:05:10,015 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:05:10,018 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:05:10,019 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:05:10,137 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:05:10,137 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:05:10,138 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:05:10,514 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:05:10,516 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:05:10,516 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:05:10,628 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:05:10,628 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:05:10,628 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:05:10,999 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:12,595 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:12,596 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:12,596 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:07:12,598 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:12,599 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:12,721 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:12,721 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:12,721 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:13,094 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:13,096 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:13,096 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:13,206 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:13,206 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:13,206 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:13,620 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:19,068 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:19,069 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:19,069 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:07:19,071 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:19,071 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:19,184 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:19,184 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:19,184 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:19,562 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:19,564 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:19,564 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:19,676 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:19,676 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:19,676 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:20,053 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:35,798 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:35,798 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:35,798 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:07:35,801 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:35,801 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:35,911 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:35,912 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:35,912 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:36,283 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:36,285 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:36,285 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:36,395 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:36,395 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:36,395 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:36,797 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:44,337 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:44,337 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:44,337 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:07:44,340 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:44,340 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:44,451 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:44,451 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:44,451 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:44,823 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:07:44,825 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:07:44,825 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:07:44,936 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:07:44,936 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:07:44,937 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:07:45,312 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:19,438 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:19,439 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:19,439 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:19,556 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:19,556 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:19,919 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:19,919 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:19,922 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:19,922 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:20,035 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:20,035 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:20,035 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:20,441 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:20,442 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:20,442 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:20,553 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:20,554 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:20,554 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:20,928 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:25,400 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:25,400 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:25,512 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:25,512 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:25,869 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:25,872 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:25,872 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:25,983 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:25,983 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:25,984 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:26,355 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:26,357 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:26,357 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:26,468 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:26,468 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:26,468 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:26,868 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:35,295 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:35,295 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:35,295 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:35,407 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:35,407 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:35,761 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:35,761 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:35,764 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:35,764 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:35,875 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:35,875 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:35,875 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:36,242 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:08:36,243 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:08:36,244 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:08:36,355 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:08:36,355 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:08:36,355 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:08:36,720 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:09:02,750 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:09:02,750 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:09:02,862 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:09:02,862 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:09:03,220 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:09:03,222 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:09:03,222 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:09:03,334 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:09:03,334 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:09:03,334 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:09:03,733 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:09:03,734 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:09:03,734 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:09:03,844 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:09:03,844 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:09:03,844 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:09:04,214 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:13:49,237 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:13:49,238 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:13:49,238 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:13:49,353 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:13:49,353 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:13:49,716 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:13:49,716 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:13:49,719 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:13:49,719 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:13:49,830 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:13:49,831 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:13:49,831 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:13:50,194 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:13:50,195 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:13:50,196 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:13:50,306 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:13:50,306 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:13:50,306 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:13:50,713 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:14:06,262 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:14:06,262 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:14:06,262 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:14:06,373 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:14:06,373 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:14:06,728 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:14:06,728 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:14:45,056 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:14:45,057 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:14:45,057 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:15:06,777 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:15:06,781 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:15:06,781 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:15:14,833 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:15:14,833 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:15:14,834 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:16:00,583 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:16:00,584 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:16:00,584 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 6), done
+2025-11-26 19:16:48,935 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:16:48,935 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:16:48,935 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:16:49,055 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:16:49,056 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:16:49,422 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:16:49,422 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:18:16,160 -- Module:columntransformer_base.py -- ScoringEngineCard.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:18:16,161 -- Module:columntransformer_base.py -- ColTransCPD.fit() -- INFO:Starting fit, X of shape: (14851, 6)
+2025-11-26 19:18:16,161 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:18:16,272 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:18:16,273 -- Module:columntransformer_base.py -- ColTransUPD.fit() -- INFO:Starting fit, X of shape: (14851, 7)
+2025-11-26 19:18:16,273 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:18:16,273 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:Starting transform, X of shape: (14851, 6)
+2025-11-26 19:18:16,382 -- Module:columntransformer_base.py -- ColTransCPD.transform() -- INFO:X_t shape: (14851, 7), done
+2025-11-26 19:18:16,382 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:Starting transform, X of shape: (14851, 7)
+2025-11-26 19:18:16,752 -- Module:columntransformer_base.py -- ColTransUPD.transform() -- INFO:X_t shape: (14851, 9), done
+2025-11-26 19:18:16,752 -- Module:columntransformer_base.py -- ScoringEngineCard.transform() -- INFO:X_t shape: (14851, 9), done

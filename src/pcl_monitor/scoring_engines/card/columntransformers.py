@@ -14,16 +14,13 @@ class ColTransCPD(ColumnTransformerBase):
 
     @staticmethod
     def scoring(r, model_dict=None):
-        score = 0
-        for k, v in model_dict.items():
-            score += v * r[k]
+        score = sum(v * r[k] for k, v in model_dict.items())
         return expit(score)
 
     def _transform(self, X):
         X_t = X.copy()
         f = partial(self.scoring, model_dict=self.model_dict)
         X_t['cpd'] = X_t.apply(f, axis=1)
-
         return X_t
 
 
@@ -44,7 +41,5 @@ class ColTransUPD(ColumnTransformerBase):
             .shift(fill_value=1).cumprod()
         )
         X_t["upd"] = survival_prev * X_t["cpd"]
-        X_t["upd"] = survival_prev * X_t["cpd"]
         X_t["cumpd"] = X_t.groupby("ID")["upd"].cumsum()
-
         return X_t

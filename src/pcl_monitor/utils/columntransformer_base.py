@@ -6,7 +6,6 @@ from functools import partial
 
 from ._logger import LoggerGenerator
 
-
 class ColumnTransformerBase(BaseEstimator, TransformerMixin):
     """
     Base class for column-wise transformers with logging, NA handling, and basic lifecycle methods.
@@ -24,6 +23,9 @@ class ColumnTransformerBase(BaseEstimator, TransformerMixin):
         if hasattr(self, 'columns'):
             return {self.transform_type: self.columns}
         return {}
+
+    def clear_log(self):
+        self.LOGGER.handlers.clear()
 
     def _fit(self, X, y=None):
         """To be implemented in subclass"""
